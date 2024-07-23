@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "prisma": "^5.17.0"
+  },
+  "dependencies": {
+    "@prisma/adapter-pg": "^5.17.0",
+    "@prisma/client": "^5.17.0",
+    "pg": "^8.12.0"
+  }
+}
